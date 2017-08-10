@@ -2,8 +2,6 @@ package org.alisle;
 
 import org.junit.Assert;
 import org.junit.Test;
-import sun.tools.tree.AssignShiftLeftExpression;
-
 import java.util.UUID;
 
 /**
